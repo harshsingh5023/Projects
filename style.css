@@ -1,7 +1,17 @@
-body{
+body {
     background-color: bisque;
 }
-h1{
+
+h1 {
     text-align: center;
     color: black;
+}
+
+h3 {
+    text-align: center;
+    color: orangered;
+}
+
+a {
+    color: orangered;
 }
